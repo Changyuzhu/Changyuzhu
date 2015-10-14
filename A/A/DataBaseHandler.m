@@ -13,7 +13,7 @@ static DataBaseHandler *dbHandler = nil;
 
 
 
-#pragma mark 单例方法
+#pragma mark 单例方法 xxxxxxxxxxxxx
 +(instancetype)shareDataBase
 {
     if (dbHandler == nil) {
